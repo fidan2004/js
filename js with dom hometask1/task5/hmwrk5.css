@@ -1,0 +1,32 @@
+.fill
+{
+    background-image: url('img_w3slogo.gif');
+    position: relative;
+    height:130px;
+    width: 200px;
+    top:6px;
+    left:5px;
+    cursor:pointer;
+
+}
+.empty{
+    display: inline-block;
+    height: 150px;
+    width: 220px;
+    margin:20px;
+    border: 1px black solid;
+    background-color: white;
+}
+.hold{
+    border:solid pink 4px;
+
+}
+.hovered 
+{
+    border-style: dashed;
+
+}
+.invisible
+{
+    display: none;
+}

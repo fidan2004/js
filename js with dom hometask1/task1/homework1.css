@@ -1,0 +1,12 @@
+.disable{
+    display: none;
+}
+.danger
+{
+    border:red;
+}
+
+.correct-input
+{
+    border:black;
+}
